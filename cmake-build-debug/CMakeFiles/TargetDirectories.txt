@@ -1,0 +1,3 @@
+/home/yura/Applications/clion/clionProjects/particle_gravity_simulation/cmake-build-debug/CMakeFiles/particle_gravity_simulation.dir
+/home/yura/Applications/clion/clionProjects/particle_gravity_simulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yura/Applications/clion/clionProjects/particle_gravity_simulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
